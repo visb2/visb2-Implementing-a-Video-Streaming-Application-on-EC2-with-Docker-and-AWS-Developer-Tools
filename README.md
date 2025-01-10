@@ -20,11 +20,6 @@ In This Project, we are Developing and Deploying a video streaming application o
 
 * `EC2` for Deployment
 
-Clone this Repository
-
-```elixir
-git clone https://github.com/NotHarshhaa/DevOps-Projects.git
-```
 
 # **Project Architecture**
 
